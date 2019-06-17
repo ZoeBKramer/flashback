@@ -1,1 +1,4 @@
-Click [here]() to visit Flashback React JS Application
+# Flashback
+## An interactive flashcard app
+
+This application, built with Reach JS, tells the story of React and its role in the industry.
